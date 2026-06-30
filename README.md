@@ -1,5 +1,5 @@
 
- **Just Chat*** — Private Real-Time Chat App
+ **Just Chat** | Private Real-Time Chat App
 
 A lightweight, zero-signup chat app that connects two people 
 using a shared 6-digit room code. No accounts. No servers to manage. 
