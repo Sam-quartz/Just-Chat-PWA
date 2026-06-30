@@ -66,14 +66,10 @@ This is an MVP. For production use:
 
 
 
-##  Screenshot
-![Uploading chat.png…]()
-
 
 Me
-
 **Samuel A. Quartson**  
-[GitHub](https://github.com/s37248804-max)
+[GitHub](https://github.com/Sam-quartz)
 
 
 
